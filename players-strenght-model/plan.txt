@@ -1,0 +1,9 @@
+- next steps
+  - add the rolling window mechanism where points earned in year Yn−1 gradually decay and are removed from a 
+  player’s total during year Y_n
+  - add a function to compute the spearman correlation with ATP Points
+  - ajouter une documentation pour le code
+
+  - créer a streamlit ratings system battle app
+    - choose a tournament/a match/a set of match/surface then the two system predict. The one who is right wins one point.
+    - Display the total number of points per system 
